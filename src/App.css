@@ -1,0 +1,92 @@
+.btn{
+    position:top;
+    left:580px;
+    top: 250px;
+    background-color:green;
+    color:black;
+    padding: 20px;
+   }
+  
+  
+  .btn2{
+    position:top;
+    left:580px;
+    top: 250px;
+    background-color:green;
+    color:black;
+    padding: 20px;
+   }
+
+
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 10%;
+    border: 2px solid #ddd;
+ font-size: 20px;
+
+}
+table1 {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 10%;
+    border: 2px solid #ddd;
+ font-size: 20px;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+
+.App {
+    text-align: left;
+  }
+  
+  .App-logo {
+    
+    height: 100px;
+    width:300px;
+    float: right;
+  }
+  
+  .App-header {
+    background-color:black;
+    height: 100px;
+    padding: 35px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 3.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  
+.App-title {
+  font-size: 3.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: left;
+  font-size:30px;
+  padding: 50px;
+}
